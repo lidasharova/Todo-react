@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-react/static/css/main.529e120d.css",
+    "main.js": "/todo-react/static/js/main.012d0ca7.js",
+    "static/media/Montserrat-Regular.ttf": "/todo-react/static/media/Montserrat-Regular.317b418ed317e258b173.ttf",
+    "static/media/Montserrat-Bold.ttf": "/todo-react/static/media/Montserrat-Bold.5885feb264991825e67f.ttf",
+    "index.html": "/todo-react/index.html",
+    "main.529e120d.css.map": "/todo-react/static/css/main.529e120d.css.map",
+    "main.012d0ca7.js.map": "/todo-react/static/js/main.012d0ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.529e120d.css",
+    "static/js/main.012d0ca7.js"
+  ]
+}
