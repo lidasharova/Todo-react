@@ -1,0 +1,24 @@
+.todoFormContainer {
+  margin-bottom: 30px;
+}
+
+.todoFormContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.todoFormContainer input {
+  width: 70%;
+  height: 25px;
+  font-size: 1.3rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  box-shadow: inset 1px 2px 5px -1px rgba(0, 0, 0, 0.6);
+}
+
+.todoFormContainer input:focus {
+  outline: none;
+  box-shadow: 1px 1px 15px 0 rgba(12, 86, 12, 0.39);
+}

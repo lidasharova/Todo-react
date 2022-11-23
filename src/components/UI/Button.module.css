@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url(../../fonts/Montserrat-Bold.ttf);
+}
+
+.button {
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: rgb(238, 238, 194);
+  font-size: 18px;
+  font-family: 'Montserrat-Bold';
+  padding: 10px 15px;
+  border: none;
+  border-radius: 25px;
+  box-shadow: inset rgba(0, 0, 0, 0.322) -6px -3px 15px 3px;
+}
+
+.button:hover {
+  background-color: #bdd2988d;
+  box-shadow: inset rgba(0, 0, 0, 0.453) -8px -5px 15px 3px;
+}
